@@ -1,0 +1,30 @@
+_POST=Array
+(
+    [act] => saveFrame
+    [frame_theme_ai] => 1
+    [frame_class0] => group
+    [frame_left0] => 10
+    [frame_top0] => 99
+    [frame_width0] => 300
+    [frame_height0] => 500
+    [frame_text0] => 自然は保護されるべき
+    [frame_class1] => group
+    [frame_left1] => 323
+    [frame_top1] => 101
+    [frame_width1] => 300
+    [frame_height1] => 500
+    [frame_text1] => 人間の生活のために開発すべき
+    [frame_class2] => opinion
+    [frame_left2] => 383
+    [frame_top2] => 158
+    [frame_width2] => 144
+    [frame_height2] => 52
+    [frame_text2] => 川辺ダムがないため今回の水害が起きた
+    [frame_class3] => opinion
+    [frame_left3] => 50
+    [frame_top3] => 159
+    [frame_width3] => 143.273
+    [frame_height3] => 41.4432
+    [frame_text3] => 生態系を壊すから
+    [cnt] => 4
+)

@@ -1,0 +1,31 @@
+Array
+(
+    [0] => Array
+        (
+            [frame_ai] => 1
+            [frame_theme_ai] => 1
+            [frame_class] => group
+            [frame_left] => 226
+            [frame_top] => 62
+            [frame_width] => 300
+            [frame_height] => 500
+            [frame_text] => 反対
+            [frame_color] => 
+            [frame_bgcolor] => 
+        )
+
+    [1] => Array
+        (
+            [frame_ai] => 2
+            [frame_theme_ai] => 1
+            [frame_class] => opinion
+            [frame_left] => 278
+            [frame_top] => 117
+            [frame_width] => 143
+            [frame_height] => 41
+            [frame_text] => XXXなので賛成です
+            [frame_color] => 
+            [frame_bgcolor] => 
+        )
+
+)

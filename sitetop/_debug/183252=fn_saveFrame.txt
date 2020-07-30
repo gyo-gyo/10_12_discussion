@@ -1,0 +1,12 @@
+_POST=Array
+(
+    [act] => saveFrame
+    [frame_theme_ai] => 1
+    [frame_class0] => group
+    [frame_left0] => 10
+    [frame_top0] => 100
+    [frame_width0] => 300
+    [frame_height0] => 500
+    [frame_text0] => 賛成
+    [cnt] => 1
+)

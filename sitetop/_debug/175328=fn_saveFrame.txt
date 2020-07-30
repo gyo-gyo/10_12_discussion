@@ -1,0 +1,32 @@
+_POST=Array
+(
+    [act] => saveFrame
+    [frame_theme_ai] => 6
+    [frame_class0] => group
+    [frame_left0] => 18
+    [frame_top0] => 68
+    [frame_width0] => 300
+    [frame_height0] => 500
+    [frame_text0] => 汎用的
+    [frame_class1] => group
+    [frame_left1] => 370
+    [frame_top1] => 80
+    [frame_width1] => 300
+    [frame_height1] => 500
+    [frame_text1] => 汎用的2
+    [frame_class2] => opinion
+    [frame_left2] => 96
+    [frame_top2] => 118
+    [frame_width2] => 143.273
+    [frame_height2] => 41.4432
+    [frame_text2] => あああ
+あああ
+    [frame_class3] => opinion
+    [frame_left3] => 423
+    [frame_top3] => 162
+    [frame_width3] => 143.273
+    [frame_height3] => 41.4432
+    [frame_text3] => あああ
+あああ
+    [cnt] => 4
+)

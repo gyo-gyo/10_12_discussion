@@ -1,0 +1,18 @@
+_POST=Array
+(
+    [act] => saveFrame
+    [frame_theme_ai] => 2
+    [frame_class0] => group
+    [frame_left0] => 8
+    [frame_top0] => 84
+    [frame_width0] => 300
+    [frame_height0] => 500
+    [frame_text0] => 悪いことであるのは法律上も当たり前
+    [frame_class1] => group
+    [frame_left1] => 385
+    [frame_top1] => 80
+    [frame_width1] => 300
+    [frame_height1] => 500
+    [frame_text1] => 本人間の問題に他人が首を突っ込むことではない
+    [cnt] => 2
+)

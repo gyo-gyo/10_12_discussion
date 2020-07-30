@@ -1,0 +1,30 @@
+_POST=Array
+(
+    [act] => saveFrame
+    [frame_theme_ai] => 1
+    [frame_class0] => group
+    [frame_left0] => 8
+    [frame_top0] => 89
+    [frame_width0] => 300
+    [frame_height0] => 500
+    [frame_text0] => 賛成
+    [frame_class1] => group
+    [frame_left1] => 324
+    [frame_top1] => 82
+    [frame_width1] => 300
+    [frame_height1] => 500
+    [frame_text1] => 反対
+    [frame_class2] => opinion
+    [frame_left2] => 100
+    [frame_top2] => 100
+    [frame_width2] => 143.273
+    [frame_height2] => 41.4432
+    [frame_text2] => いいいい
+    [frame_class3] => opinion
+    [frame_left3] => 380
+    [frame_top3] => 130
+    [frame_width3] => 143.273
+    [frame_height3] => 41.4432
+    [frame_text3] => いいいい
+    [cnt] => 4
+)
